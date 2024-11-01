@@ -1,0 +1,106 @@
+{
+  "common": {
+    "next": "Suivant",
+    "back": "Retour",
+    "confirm": "Confirmer la réservation"
+  },
+  "footer": {
+    "contact": {
+      "title": "Contactez-nous",
+      "phone": "Appelez-nous",
+      "email": "Envoyez-nous un email",
+      "whatsapp": "Discuter sur WhatsApp"
+    },
+    "legal": {
+      "title": "Mentions légales",
+      "terms": "Conditions d'utilisation",
+      "privacy": "Politique de confidentialité",
+      "refund": "Politique de remboursement"
+    },
+    "hours": {
+      "title": "Horaires d'ouverture",
+      "weekdays": "Lundi - Vendredi",
+      "saturday": "Samedi",
+      "sunday": "Dimanche",
+      "closed": "Fermé"
+    },
+    "company": {
+      "title": "Entreprise",
+      "registration": "N° d'enregistrement"
+    },
+    "copyright": "Tous droits réservés.",
+    "cookies": {
+      "message": "Nous utilisons des cookies pour améliorer votre expérience.",
+      "learnMore": "En savoir plus",
+      "accept": "Accepter"
+    }
+  },
+  "home": {
+    "title": "Nettoyage Professionnel de Voitures",
+    "subtitle": "Réservez votre service de nettoyage en quelques étapes"
+  },
+  "steps": {
+    "vehicle": "Véhicule",
+    "service": "Service",
+    "special": "Besoins Spéciaux",
+    "schedule": "Horaire",
+    "confirm": "Confirmer"
+  },
+  "vehicle": {
+    "title": "Sélectionnez la Taille de Votre Véhicule",
+    "compact": {
+      "title": "Compact",
+      "description": "Berline, Citadine"
+    },
+    "medium": {
+      "title": "Moyen",
+      "description": "SUV, Crossover"
+    },
+    "large": {
+      "title": "Grand",
+      "description": "Van, Camion"
+    }
+  },
+  "service": {
+    "title": "Choisissez Votre Forfait",
+    "basic": {
+      "title": "Basique",
+      "description": "Lavage extérieur, aspirateur, vitres"
+    },
+    "premium": {
+      "title": "Premium",
+      "description": "Basique + nettoyage intérieur profond"
+    },
+    "ultimate": {
+      "title": "Ultimate",
+      "description": "Premium + cire & protection"
+    }
+  },
+  "special": {
+    "title": "Besoins Spéciaux",
+    "placeholder": "Entrez vos besoins spéciaux ou notes pour votre réservation",
+    "customerInfo": "Informations Client",
+    "name": "Nom Complet",
+    "email": "Adresse Email"
+  },
+  "schedule": {
+    "title": "Sélectionnez Date et Heure",
+    "date": "Choisir une Date",
+    "time": "Choisir une Heure"
+  },
+  "summary": {
+    "title": "Résumé de la Réservation",
+    "vehicle": "Taille du Véhicule",
+    "service": "Forfait Service",
+    "datetime": "Date et Heure",
+    "price": "Prix Total",
+    "special": "Besoins Spéciaux",
+    "whatsNext": "Et Ensuite ?",
+    "nextSteps": {
+      "email": "Vous recevrez un email de confirmation avec les détails",
+      "arrival": "Notre équipe arrivera à l'heure prévue",
+      "payment": "Le paiement sera effectué après le service",
+      "satisfaction": "Satisfaction 100% garantie"
+    }
+  }
+}

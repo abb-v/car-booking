@@ -1,0 +1,35 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Customer {
+  id        String    @id @default(cuid())
+  email     String    @unique
+  phone     String
+  name      String
+  bookings  Booking[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model Booking {
+  id            String    @id @default(cuid())
+  vehicleSize   String
+  service       String
+  date          DateTime
+  time          String
+  price         Float
+  specialNeeds  String?
+  status        String    @default("pending")
+  customerId    String
+  customer      Customer  @relation(fields: [customerId], references: [id])
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  @@index([customerId])
+}

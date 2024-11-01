@@ -1,0 +1,106 @@
+{
+  "common": {
+    "next": "Next",
+    "back": "Back",
+    "confirm": "Confirm Booking"
+  },
+  "footer": {
+    "contact": {
+      "title": "Contact Us",
+      "phone": "Call Us",
+      "email": "Email Us",
+      "whatsapp": "Chat on WhatsApp"
+    },
+    "legal": {
+      "title": "Legal",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "refund": "Refund Policy"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Monday - Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    },
+    "company": {
+      "title": "Company",
+      "registration": "Registration No"
+    },
+    "copyright": "All rights reserved.",
+    "cookies": {
+      "message": "We use cookies to enhance your experience.",
+      "learnMore": "Learn More",
+      "accept": "Accept"
+    }
+  },
+  "home": {
+    "title": "Professional Car Cleaning",
+    "subtitle": "Book your car cleaning service in just a few steps"
+  },
+  "steps": {
+    "vehicle": "Vehicle",
+    "service": "Service",
+    "special": "Special Needs",
+    "schedule": "Schedule",
+    "confirm": "Confirm"
+  },
+  "vehicle": {
+    "title": "Select Your Vehicle Size",
+    "compact": {
+      "title": "Compact",
+      "description": "Sedan, Hatchback"
+    },
+    "medium": {
+      "title": "Medium",
+      "description": "SUV, Crossover"
+    },
+    "large": {
+      "title": "Large",
+      "description": "Van, Truck"
+    }
+  },
+  "service": {
+    "title": "Choose Your Service Package",
+    "basic": {
+      "title": "Basic",
+      "description": "Exterior wash, vacuum, windows"
+    },
+    "premium": {
+      "title": "Premium",
+      "description": "Basic + interior deep clean"
+    },
+    "ultimate": {
+      "title": "Ultimate",
+      "description": "Premium + wax & protection"
+    }
+  },
+  "special": {
+    "title": "Special Requirements",
+    "placeholder": "Enter any special requirements or notes for your booking",
+    "customerInfo": "Customer Information",
+    "name": "Full Name",
+    "email": "Email Address"
+  },
+  "schedule": {
+    "title": "Select Date & Time",
+    "date": "Choose a Date",
+    "time": "Choose a Time"
+  },
+  "summary": {
+    "title": "Booking Summary",
+    "vehicle": "Vehicle Size",
+    "service": "Service Package",
+    "datetime": "Date & Time",
+    "price": "Total Price",
+    "special": "Special Requirements",
+    "whatsNext": "What's Next?",
+    "nextSteps": {
+      "email": "You'll receive a confirmation email with your booking details",
+      "arrival": "Our team will arrive at the scheduled time",
+      "payment": "Payment will be collected after the service",
+      "satisfaction": "100% satisfaction guaranteed"
+    }
+  }
+}
